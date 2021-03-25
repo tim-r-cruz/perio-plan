@@ -1,0 +1,21 @@
+appdirs==1.4.4
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1606601133395/work
+chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1607673800921/work
+conda==4.9.2
+conda-package-handling @ file:///Users/runner/miniforge3/conda-bld/conda-package-handling_1602876806364/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1607606158899/work
+distlib==0.3.1
+filelock==3.0.12
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1602277854285/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1602326910156/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+ruamel-yaml-conda @ file:///Users/runner/miniforge3/conda-bld/ruamel_yaml_1602430333618/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1608900042843/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1605225765842/work
+virtualenv==20.4.3
