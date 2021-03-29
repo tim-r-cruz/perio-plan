@@ -1,21 +1,90 @@
+altair==4.1.0
 appdirs==1.4.4
-brotlipy==0.7.0
+appnope==0.1.2
+argon2-cffi==20.1.0
+astor==0.8.1
+async-generator==1.10
+attrs==20.3.0
+backcall==0.2.0
+base58==2.1.0
+bleach==3.3.0
+blinker==1.4
+cachetools==4.2.1
 certifi==2020.12.5
-cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1606601133395/work
-chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1607673800921/work
-conda==4.9.2
-conda-package-handling @ file:///Users/runner/miniforge3/conda-bld/conda-package-handling_1602876806364/work
-cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1607606158899/work
+cffi==1.14.5
+chardet==4.0.0
+click==7.1.2
+decorator==4.4.2
+defusedxml==0.7.1
 distlib==0.3.1
+entrypoints==0.3
 filelock==3.0.12
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
-pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1602277854285/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
-PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1602326910156/work
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
-ruamel-yaml-conda @ file:///Users/runner/miniforge3/conda-bld/ruamel_yaml_1602430333618/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1608900042843/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1605225765842/work
+gitdb==4.0.5
+GitPython==3.1.14
+idna==2.10
+ipykernel==5.5.0
+ipython==7.21.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.3
+jedi==0.18.0
+Jinja2==2.11.3
+joblib==1.0.1
+jsonschema==3.2.0
+jupyter-client==6.1.12
+jupyter-core==4.7.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.0
+MarkupSafe==1.1.1
+mistune==0.8.4
+nbclient==0.5.3
+nbconvert==6.0.7
+nbformat==5.1.2
+nest-asyncio==1.5.1
+notebook==6.3.0
+numpy==1.20.1
+packaging==20.9
+pandas==1.2.3
+pandocfilters==1.4.3
+parso==0.8.1
+pbr==5.5.1
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==8.1.2
+prometheus-client==0.9.0
+prompt-toolkit==3.0.18
+protobuf==3.15.6
+ptyprocess==0.7.0
+pyarrow==3.0.0
+pycparser==2.20
+pydeck==0.6.1
+Pygments==2.8.1
+pyparsing==2.4.7
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pytz==2021.1
+pyzmq==22.0.3
+requests==2.25.1
+scikit-learn==0.24.1
+scipy==1.6.1
+Send2Trash==1.5.0
+six==1.15.0
+sklearn==0.0
+smmap==3.0.5
+stevedore==3.3.0
+streamlit==0.79.0
+terminado==0.9.3
+testpath==0.4.4
+threadpoolctl==2.1.0
+toml==0.10.2
+toolz==0.11.1
+tornado==6.1
+traitlets==5.0.5
+tzlocal==2.1
+urllib3==1.26.4
+validators==0.18.2
 virtualenv==20.4.3
+virtualenv-clone==0.5.4
+virtualenvwrapper==4.8.4
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.5.1
