@@ -12,4 +12,4 @@ The app is written in Python. The front end was developed using Streamlit, and t
 
 ## Accessing the app: 
 
-The app is accessible (here)[https://share.streamlit.io/tim-r-cruz/perio-plan/main.py].
+The app is accessible [here](https://share.streamlit.io/tim-r-cruz/perio-plan/main.py).
